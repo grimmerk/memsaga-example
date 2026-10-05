@@ -1,0 +1,1 @@
+- [Style](style.md) — short paragraphs, British spelling

@@ -1,0 +1,7 @@
+repo = "~/git/memories"
+extra_files = ["~/notes/plan.md"]
+push_min_interval_secs = 0
+
+[[roots]]
+path = "/private/tmp/memsaga-demo/home/.claude"
+label = "claude"

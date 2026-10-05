@@ -1,0 +1,2 @@
+- [Testing](testing.md) — run `npm test -- --runInBand`; the e2e suite needs `npm run db:up`
+- [Deploys](deploys.md) — staging deploys on merge to main
