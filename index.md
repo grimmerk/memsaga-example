@@ -11,3 +11,9 @@ Config: [CLAUDE.md](claude/CLAUDE.md), [skills](claude/skills), [agents](claude/
 | [(unresolved) HOME-git-blog](claude/memory/HOME-git-blog) | 2 | 2026-10-15 | `HOME-git-blog` |
 | [(unresolved) HOME-git-webapp](claude/memory/HOME-git-webapp) | 4 | 2026-10-15 | `HOME-git-webapp` |
 
+## companion
+
+Translations and annotations of documents that live in other repositories (see the `companion-docs` skill).
+
+- [webapp/docs/architecture.zh-tw.md](companion/webapp/docs/architecture.zh-tw.md)
+
