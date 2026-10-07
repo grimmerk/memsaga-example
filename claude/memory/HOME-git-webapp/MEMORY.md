@@ -1,3 +1,3 @@
 - [Testing](testing.md) — run `npm test -- --runInBand`; the e2e suite needs `npm run db:up`
-- [Deploys](deploys.md) — staging deploys on merge to main
+- [Deploys](deploys.md) — staging on merge to main, production from a tag
 - [Auth flow](auth-flow.md) — OAuth callback returns to the starting page via `state`
