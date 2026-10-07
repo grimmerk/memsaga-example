@@ -15,5 +15,6 @@ Config: [CLAUDE.md](claude/CLAUDE.md), [skills](claude/skills), [agents](claude/
 
 Translations and annotations of documents that live in other repositories (see the `companion-docs` skill).
 
+- [webapp/_notes/pr-2107-review.md](companion/webapp/_notes/pr-2107-review.md)
 - [webapp/docs/architecture.zh-tw.md](companion/webapp/docs/architecture.zh-tw.md)
 
