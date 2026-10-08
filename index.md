@@ -17,4 +17,5 @@ Translations and annotations of documents that live in other repositories (see t
 
 - [webapp/_notes/pr-2107-review.md](companion/webapp/_notes/pr-2107-review.md)
 - [webapp/docs/architecture.zh-tw.md](companion/webapp/docs/architecture.zh-tw.md)
+- [webapp/docs/new-design.zh-tw.md](companion/webapp/docs/new-design.zh-tw.md)
 
